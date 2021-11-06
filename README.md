@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @priyanshuaec
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me chaturvedi.priyanshu11@gmail.com
 
 <!---
